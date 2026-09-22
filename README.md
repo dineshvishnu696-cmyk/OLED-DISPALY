@@ -1,4 +1,4 @@
-# OLED-DISPALY
+[# OLED-DISPALY
 ## AIM: Display Front Left Door Status on the OLED using I2C
 ---
 
@@ -35,6 +35,7 @@
 ---
 ## OUTPUT
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/241534fd-3353-4eec-8e2d-15262f2ff457" />
 
 
 
@@ -46,3 +47,4 @@
 ## Result
 
 The **Front Left Door status was successfully displayed on the OLED using I2C communication**. The OLED displayed **"Front Left Door: OPEN"** when the door was open and **"Front Left Door: CLOSED"** when the door was closed, confirming successful GPIO input and I2C OLED operation.
+](https://github.com/dineshvishnu696-cmyk/potentiometer-value-display-using-ADC-UART/tree/main)
